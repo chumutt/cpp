@@ -1,0 +1,4 @@
+*.png
+*.out
+.ccls-cache/*
+.ccls-cache
